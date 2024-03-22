@@ -48,31 +48,11 @@ Este é um código HTML que representa uma página da web sobre o Google Glass. 
    - O design é complementado por um arquivo de estilo externo (`_css/estilo.css`).
    - Há referências a arquivos e diretórios, Tendo uma estrutura organizada do projeto com subdiretórios para CSS, JavaScript e imagens.
 
-## COMO USAR?
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/GOOGLE-GLASS.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd GOOGLE-GLASS
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip GOOGLE-GLASS.zip
-```
-* Abra o arquivo `index.html` em seu navegador de preferência.
-
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
